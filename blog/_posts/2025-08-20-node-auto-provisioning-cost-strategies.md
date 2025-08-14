@@ -1,18 +1,9 @@
 ---
 title: "Optimize AKS Compute Costs with Node Auto Provisioning"
 description: "Sample - Add your description"
-date: 2025-07-20
+date: 2025-08-20
 author: Wilson Darko # must match the authors.yml in the _data folder
-categories: 
-- general 
-- cost
--compute
-# - general
-# - operations
-# - networking
-# - security
-# - developer
-# - add-ons
+categories: general, cost
 ---
 
 ## Introduction: Balancing Performance, Cost, and Scale
