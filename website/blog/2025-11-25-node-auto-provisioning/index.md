@@ -1,7 +1,7 @@
 ---
 title: "Node Auto Provisioning on Azure Kubernetes Service (AKS)"
 description: "Learn about the background story of Node Auto Provisioning in Azure Kubernetes Service (AKS)."
-date: 2025-11-25
+date: 2025-12-10
 authors: 
 - wilson-darko
 - sanket-bakshi
